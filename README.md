@@ -18,8 +18,8 @@ This project implements a binary classifier to distinguish between dogs and wolv
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/DogsAndWolvesClassifier.git
-   cd DogsAndWolvesClassifier
+   git clone https://github.com/yourusername/DogsAndWolves.git
+   cd DogsAndWolves
 
 2. **Create and activate a virtual environment:**
 
