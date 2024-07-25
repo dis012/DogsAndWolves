@@ -2,35 +2,6 @@
 
 This project implements a binary classifier to distinguish between dogs and wolves using a custom convolutional neural network (CNN) built with PyTorch.
 
-## Project Structure
-BinaryClassification/
-├── data/
-│   └── dogs
-    └── wolves
-├── models/
-│   ├── init.py
-│   ├── cnn.py
-    ├── custom_dataset.py
-│   └── early_stopping.py
-├── newImages/
-    ├── Upload all the images for prediction here
-├── notebooks/
-    ├── DogsAndWolves.ipynb
-├── scripts/
-│   ├── init.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── predict.py
-├── utils/
-│   ├── init.py
-│   ├── functions.py
-│   └── visualize.py
-├── weights/
-│   └── (your saved model weights)
-    ├── old/
-            ├── Trained model
-├── main.py
-└── README.md
 
 ## Setup
 
