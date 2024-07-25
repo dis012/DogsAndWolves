@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://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@github.com/dis012/DogsAndWolves.git
+	fetch = +refs/*:refs/*
+	mirror = true
